@@ -1,0 +1,9 @@
+#headdiv{
+    background-image:url("./images/img2.webp");
+    background-size: cover;
+    height: 30rem;
+    text-align: start;
+    color: white;
+    padding-top: 4rem;
+    padding-left: 2rem;
+}
